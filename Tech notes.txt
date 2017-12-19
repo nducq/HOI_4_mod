@@ -3,3 +3,15 @@ Tech notes:
 Infantry Equipment:
 
 	Categories:
+	
+	*Modern Support Equipment (1900, 1910, 1914, 1918, 1923)
+	*Modern Infantry Equipment (1900, 1910, 1912, 1914, 1918, 1920)
+	*AT-Equipment (1914, 1918, 1923)
+	*Special Equipment (Modern Uniforms 1900)
+		Modern Helmets (1912, 1914, 1918, 1923)
+		Early Body Armor (1914, 1920, 1923)
+		
+	*Motorized:
+		Modern Carriages (1900)
+		Early Trucks (1910)
+		
